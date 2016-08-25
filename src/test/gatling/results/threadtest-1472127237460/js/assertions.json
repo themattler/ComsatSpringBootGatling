@@ -1,0 +1,10 @@
+{
+  "simulation": "ThreadTest",
+  "simulationId": "threadtest",
+  "start": 1472127237460,
+  "description": "",
+  "scenarios": ["Test Threads"],
+  "assertions": [
+
+  ]
+}

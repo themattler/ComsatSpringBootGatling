@@ -1,0 +1,10 @@
+{
+  "simulation": "FiberTest",
+  "simulationId": "fibertest",
+  "start": 1472127515037,
+  "description": "",
+  "scenarios": ["Test Fibers"],
+  "assertions": [
+
+  ]
+}
